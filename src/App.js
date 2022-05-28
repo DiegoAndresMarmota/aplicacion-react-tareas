@@ -1,7 +1,7 @@
-import React from 'react';
 import './App.css';
 import freeCodeCampLogo from './imagenes/freeCodeCampLogo.png';
 import ListaDeTareas from './Componentes/ListaDeTareas';
+
 
 function App() {
   return (
